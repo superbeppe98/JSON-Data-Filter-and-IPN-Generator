@@ -1,4 +1,4 @@
-# JSON-Data-Filter-and-IPN-GeneratorSON Data Filter and IPN Generator
+# JSON-Data-Filter-and-IPN-Generator
 JSON Data Filter and IPN Generator is a Python program that filters items from a JSON file based on a user-specified category name and generates a sequence of unique internal reference numbers (IPN) for the filtered items.
 
 ## Installation
