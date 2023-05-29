@@ -17,7 +17,7 @@ with open('input.json', 'r') as f:
     # Extract items belonging to the desired category
     category_name = input("Enter category name: ")
     filtered_data = [
-        item for item in data if item['Category Name'] == category_name]
+        item for item in data if item['Nome Categoria'] == category_name]
 
 # Count the extracted items
 count = len(filtered_data)
