@@ -8,7 +8,7 @@ To use JSON data filter and IPN generator, you need to have Python 3 installed o
 To use JSON data filter and IPN generator, you need to provide a JSON file named "input.json" that contains a list of items to filter and generate IPNs for. The items in the file should have a "Category Name" attribute that specifies their category. Once you have the file ready, you can run the program by navigating to the directory where the program is stored and running the following command:
 
 ```shell
-$ python3 json_filter_and_ipn_generator.py
+$ python3 json-data-filter-and-IPN-generator.py
 ```
 This will prompt you to enter a category name to filter the items by. Once you have entered the category name, the program will filter the items that belong to that category and output the number of extracted items. The filtered items will be stored in a temporary file named "temp.json".
 
